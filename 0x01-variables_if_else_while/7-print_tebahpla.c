@@ -4,7 +4,7 @@
  *
  * Description: File 7-print_tebahpla.c
  *
- * Return
+ * Return: Always 0
  *
  */
 
