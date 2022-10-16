@@ -1,11 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main - Prints a number and states whether it is positive, negative, or zero.
+/**
+ * main -Pruints a number and states wether it is positive, negative or zero
  *
- * Return : Always 0
+ * Description: Using the main function
+ *
+ * Return: Always 0
  */
+
 int main(void)
 {
 	int n;
