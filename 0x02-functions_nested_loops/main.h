@@ -1,6 +1,6 @@
 
 void printchar()
 {
-	printf("_putchar");
+	printf("_putchar\n");
 }
 
