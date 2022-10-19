@@ -1,11 +1,8 @@
 #include"main.h"
 /**
- *print_alphabet_x10- Prints alphabets 10 times
- *
- * Return:0
+ *print_alphabet_x10 -> Prints alphabets 10 times
  */
-void print_alphabet_x10(void);
-int main(void)
+void print_alphabet_x10(void)
 {
 	char(k);
 	int (j);
@@ -14,9 +11,9 @@ int main(void)
 	{
 		for (k = 'a'; k <= 'z'; k++)
 		{
-			putchar (k);
+			_putchar (k);
 		}
-		putchar('\n');
+		_putchar('\n');
 	}
 		j++;
 }
