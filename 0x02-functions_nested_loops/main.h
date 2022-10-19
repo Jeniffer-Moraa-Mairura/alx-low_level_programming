@@ -1,6 +1,1 @@
-
-void printchar()
-{
-	printf("_putchar\n");
-}
-
+int _islower(int c);
